@@ -10,11 +10,8 @@
 
 - ServiceNow PDI (Personal Development Instance)
 - App Engine Studio (Application)
-- Service Catalog
 - Flow Designer
-- Knowledge Management
 - Workspace
-- Service Portal
 
 <h2>Configuration Steps</h2>
 
